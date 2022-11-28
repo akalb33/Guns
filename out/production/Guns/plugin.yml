@@ -1,0 +1,11 @@
+name: guns
+version: 1.0
+author: Freakoness
+main: com.gmail.andrewgkalb.guns.guns
+api-version: 1.16
+commands:
+  guns:
+    description: Base command for any gun commands.
+    usage: /guns
+    permission: guns.guns
+    permission-message: You don't have permission.
